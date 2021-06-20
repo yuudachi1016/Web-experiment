@@ -9,4 +9,4 @@ web应用技术实验的综合实验源代码
 
 /src/pag存放实验中需要用到的JavaBean文件。
 
-![image-20210620171630321](C:\Users\11401\AppData\Roaming\Typora\typora-user-images\image-20210620171630321.png)
+![123](C:\Users\11401\Desktop\123.png)
