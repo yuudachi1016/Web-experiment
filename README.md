@@ -8,7 +8,3 @@ web应用技术实验的综合实验源代码
 /src/js存放实验中需要用到的JavaScript文件； 
 
 /src/pag存放实验中需要用到的JavaBean文件。
-
-表结构：
-
-![123](C:\Users\11401\Desktop\123.png)
